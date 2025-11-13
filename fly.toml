@@ -1,7 +1,6 @@
-# fly.toml file for backend.py (Flask JesusBot backend)
-app = "jesusbot-backend"  # <-- change this to your Fly app name
+app = "jesusbot-backend"  # your app name
 
-primary_region = "mia"    # good for Florida; change if you want another region
+primary_region = "mia"
 
 [env]
   PORT = "8080"
