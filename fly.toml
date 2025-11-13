@@ -1,6 +1,6 @@
 app = "jesusbot-backend"  # your app name
 
-primary_region = "mia"
+primary_region = "vir"
 
 [env]
   PORT = "8080"
